@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法/git网络连接失败解决方法.md",
-                "mode": "source",
+                "file": "看/如何使用搜索引擎.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git网络连接失败解决方法"
+              "title": "如何使用搜索引擎"
             }
           }
         ]
@@ -164,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,8 +181,8 @@
   },
   "active": "0662079633047f30",
   "lastOpenFiles": [
-    "方法",
     "方法/git网络连接失败解决方法.md",
+    "方法",
     "看/2.pdf",
     "看/1.pdf",
     "2025-03-09T11_58_37.703+08_00.md",
