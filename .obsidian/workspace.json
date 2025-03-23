@@ -11,10 +11,24 @@
             "id": "0662079633047f30",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "方法/git网络连接失败解决方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "git网络连接失败解决方法"
             }
           }
         ]
@@ -90,6 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "方法/git网络连接失败解决方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "git网络连接失败解决方法 的反向链接列表"
             }
           },
           {
@@ -165,6 +180,8 @@
   },
   "active": "0662079633047f30",
   "lastOpenFiles": [
+    "方法",
+    "方法/git网络连接失败解决方法.md",
     "看/2.pdf",
     "看/1.pdf",
     "2025-03-09T11_58_37.703+08_00.md",
