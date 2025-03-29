@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "方法/git网络连接失败解决方法.md",
+                "file": "linux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git网络连接失败解决方法"
+              "title": "linux"
             }
           }
         ]
@@ -167,7 +167,8 @@
   },
   "active": "ec0a2e76f38551d3",
   "lastOpenFiles": [
-    "看/1.pdf",
-    "方法/git网络连接失败解决方法.md"
+    "方法/git网络连接失败解决方法.md",
+    "linux.md",
+    "看/1.pdf"
   ]
 }

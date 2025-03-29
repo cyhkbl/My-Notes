@@ -1,0 +1,11 @@
+有很多人问我主题，这里统一回复一下：
+全局主题：Breeze-dark
+视觉风格：WinSur-dark
+窗口装饰：MacSonoma-dark
+颜色：WinSur-dark
+字体：苹方-简
+图标：WinSur-dark
+桌面特效：
+背景虚化中，噪点弱
+透明度看自己喜好调整
+底部Dock栏是latte-dock，也参考上面的特效调整
