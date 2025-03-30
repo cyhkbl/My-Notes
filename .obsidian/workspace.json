@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "linux"
             }
+          },
+          {
+            "id": "b8c36f9af1e418b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ai编辑器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai编辑器"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +214,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0662079633047f30",
+  "active": "b8c36f9af1e418b1",
   "lastOpenFiles": [
-    "看/如何使用搜索引擎.md",
+    "ai编辑器.md",
     "linux.md",
+    "看/如何使用搜索引擎.md",
     "方法/git网络连接失败解决方法.md",
     "方法",
     "看/2.pdf",

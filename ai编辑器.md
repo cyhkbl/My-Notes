@@ -1,0 +1,4 @@
+cursor
+zed
+void
+trae
