@@ -149,9 +149,19 @@
           "icon": "lucide-list",
           "title": "大纲"
         }
+      },
+      {
+        "id": "eb919db355343313",
+        "type": "leaf",
+        "state": {
+          "type": "git-view",
+          "state": {},
+          "icon": "git-pull-request",
+          "title": "Source Control"
+        }
       }
     ],
-    "currentTab": 0
+    "currentTab": 3
   },
   "left-ribbon": {
     "hiddenItems": {
